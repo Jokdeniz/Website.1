@@ -1,0 +1,186 @@
+body {
+    background-color: #f4f4f4;
+    text-align: center;
+    margin: 0;
+}
+
+hr {
+    color: #c0c0c0;
+    margin: 85px auto 85px auto;
+    border-style: none;
+    border-top-style: dotted;
+    border-top-width: 7.7px;
+    width: 4%;
+}
+
+.top-container {
+    background-color: #EAF6F6;
+    position: relative;
+    padding-top: 100px;
+}
+
+h1 {
+    margin: 25px auto 0 auto;
+    font-family: Copperplate, Papyrus, fantasy;
+    font-size: 3.5rem;
+    color: #66BFBF;
+}
+
+.job {
+    font-size: 1.3rem;
+    font-family: 'courier new', monospace;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+.job1 {
+    text-decoration: underline;
+}
+
+h2 {
+    color: #11999E;
+}
+
+h3 {
+    color: #11999E;
+}
+
+p {
+    margin: 0 auto 30px auto;
+    line-height: 2;
+}
+
+.web {
+    text-decoration: underline;
+    margin: 0 auto 30px auto;
+}
+
+.top-cloud {
+    width: 12rem;
+    height: 4rem;
+    position: absolute;
+    right: 280px;
+    top: 40px;
+}
+
+.bottom-cloud {
+    width: 12rem;
+    height: 4rem;
+    position: absolute;
+    left: 250px;
+}
+
+.profile-png {
+    width: 12%;
+    margin: 60px auto 5px auto;
+}
+
+.profile-hello {
+    font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif;
+    font-size: 2.3rem;
+}
+
+.profile-description {
+    color: #020202;
+    width: 24%;
+}
+
+.my-skills {
+    font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif;
+    font-size: 2.6rem;
+    text-decoration: overline;
+}
+
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.coding {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.PS {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+/* ( Bu ozellik paragrafın resmin altında hizalanmasını saglıyor.)
+.coding-description {
+    clear: left;
+}
+.PS-description {
+    clear: right;
+}
+*/
+
+.header-contactme {
+    font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif;
+    font-size: 2.3rem;
+    text-decoration: overline;
+}
+
+.description-contactme {
+    width: 33%;
+    
+}
+
+.bottom-container {
+    padding: 50px 0 20px;
+    background-color: #66BFBF;
+    
+}
+
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #3498db);
+    background-image: -moz-linear-gradient(top, #3498db, #3498db);
+    background-image: -ms-linear-gradient(top, #3498db, #3498db);
+    background-image: -o-linear-gradient(top, #3498db, #3498db);
+    background-image: linear-gradient(to bottom, #3498db, #3498db);
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+    border-radius: 10px;
+    font-family: Courier New;
+    color: #ffffff;
+    font-size: 23px;
+    padding: 10px 20px 10px 20px;
+    border: solid #1f628d 3px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #23e615);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #23e615);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #23e615);
+    background-image: -o-linear-gradient(top, #3cb0fd, #23e615);
+    background-image: linear-gradient(to bottom, #3cb0fd, #23e615);
+    text-decoration: none;
+  }
+
+.lastname {
+    color: #EAF6F6;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    font-family: Perpetua, Baskerville, "Big Caslon", "Palatino Linotype", Palatino, "URW Palladio L", "Nimbus Roman No9 L", serif;
+    font-size: 1.2rem;
+    
+}
+.footer-link {
+    color: #11999E;
+    font-size: 1.1rem;
+    margin: 30px 0 20px 35px;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover {
+    color: rgb(240, 238, 238);
+}
+
+
